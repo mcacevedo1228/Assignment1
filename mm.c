@@ -174,8 +174,8 @@ int main()
     printf("%9.2f ", run(multiply, n));
       
     //          Used for alternate multiplication methods
-    //  printf("%9.2f ", run(multiplyP, n));
-    //  printf("%9.2f", run(multiplyS, n));
+    printf("%9.2f ", run(multiplyP, n));
+    printf("%9.2f", run(multiplyS, n));
       
       
     printf("\n");
