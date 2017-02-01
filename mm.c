@@ -4,6 +4,12 @@
 * This program is a matrix multiplier that satisfies the requirements for Asn2
 **/
 
+//
+// Model: Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz 
+// Cache Size and Alignment: 15360KB -- Alignment: 64
+// L1 cache: 6x32 KB	L2 cache: 6x256 KB	L3 cache: 15 MB
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "mm.h"
